@@ -1,0 +1,147 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+}
+    
+	.container-turquoise {
+        background-image: url('images/bg1.png');
+    }
+
+    .content {
+        width: 1170px;
+    }
+
+    .header {
+        position: relative;
+    }
+    
+    .nav-bar {
+    	width: 100%;
+        text-transform: uppercase;
+        font-family: bazar;
+        list-style-type: none;
+        margin:0 auto;
+        padding-top: 10px;
+        text-align: center;
+    }
+
+    .nav-bar > li {
+        display: inline-block;
+        margin: 0 4% 3% 4%;
+    }
+
+	.nav-bar > li > a {
+		padding: 20px;
+	}
+
+    .nav-bar > li > a:hover {
+         color: #383a3c;
+         transition: 1s;
+    }
+
+    .nav-bar > li > a {
+        text-decoration: none;
+        color: #fbfaf6;
+        font-size: 18px;
+        position: relative;
+    }
+
+    .seam {
+        background-image: url('images/divider.png');
+        background-repeat: repeat-x;
+        height: 2px;
+    }
+
+    .header-section-2 {
+        margin-top: 5px;
+    }
+
+    .header-logo-small {
+        width: 120px;
+        margin-bottom: -44%;
+       
+    }
+
+    .header-title {
+        text-align: center;
+        margin-top: 100px;
+    }
+
+    .image-retro {
+        display: block;
+        width: 550px;
+        margin: 0 auto;
+    }
+
+    .image-retro > img {
+        width: 100%;
+    }
+
+    .image-old {
+        display: block;
+        width: 750px;
+        margin: 0 auto;
+        margin-top: 25px;
+    }
+
+    .image-old > img {
+        width: 100%;
+    }
+
+    /* Slider */
+	
+	.slider {
+		max-width: 1100px;
+		margin: 0 auto;
+		margin-top: 30px;
+		position: relative;
+	}
+
+	.slider-pic {
+		width: 100%; 
+	}
+
+	.slider-description {
+		position: absolute;
+		bottom: -1%;
+		left: 50%;
+		transform: translateX(-50%);
+		font-family: bazar;
+		text-transform: uppercase;
+		font-size: 1.2em;
+		color: #383a3c;
+	}
+
+	.welcome-title {
+		font-family: bazar;
+		text-transform: uppercase;
+		color: #f7ebd8;
+		text-align: center;
+		margin: 30px 0 50px 0;
+	}
+
+	.welcome-title h1 {
+		font-size: 2em;
+	}
+
+	.welcome-title h2 {
+		font-size: 1.5em;
+	}
+
+	.container-beige {
+        background-image: url('images/bg2.png');
+        height: 100px;
+    }
+
+   
+
+
+    
+
+
+
+

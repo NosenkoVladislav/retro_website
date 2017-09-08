@@ -1,0 +1,26 @@
+
+
+@font-face {
+    font-family: oswald;
+    src: url('fonts/Oswald-Regular.ttf');
+}
+
+@font-face {
+    font-family: roboto-slab-regular;
+    src: url('fonts/RobotoSlab-Regular.ttf');
+}
+
+@font-face {
+    font-family: roboto-slab-bold;
+    src: url('fonts/RobotoSlab-Bold.ttf');
+}
+
+@font-face {
+    font-family: MyriadPro-regular;
+    src: url('fonts/MyriadPro-Regular.otf');
+}
+
+@font-face {
+    font-family: bazar;
+    src: url('fonts/Bazar.ttf');
+}
